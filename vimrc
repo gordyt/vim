@@ -26,7 +26,7 @@ vmap <M-Down> ]egv
 "   let all copy and paste operations use X11 selection buffer
 set clipboard+=unnamed
 "   COLOR SCHEME - set default colorscheme
-colorscheme desert
+colorscheme earendel
 "
 "   ------------------------------------------------------------------------
 "   COMMENTS
