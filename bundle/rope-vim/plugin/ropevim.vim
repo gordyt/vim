@@ -14,4 +14,5 @@ let ropevim_guess_project=1
 let ropevim_enable_autoimport=1
 let ropevim_enable_shortcuts=1
 let ropevim_extended_complete=1
+
 endif
