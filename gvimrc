@@ -9,4 +9,5 @@ set columns=80
 "   Mac font specification: Consolas:h13.00
 set guifont=Consolas\ 12,Consolas:h13.00,DejaVu\ Sans\ Mono\ 11,DejaVu\ Sans\ Mono:h13.00
 "   Override colorscheme for GUI editor
-colorscheme earendel
+"   colorscheme earendel
+colorscheme navajo-night
