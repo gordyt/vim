@@ -25,6 +25,10 @@ scratch.vim
 *   http://www.vim.org/scripts/script.php?script_id=664
 *   https://github.com/vim-scripts/scratch.vim.git
 
+snipmate.vim
+*   http://www.vim.org/scripts/script.php?script_id=2540
+*   https://github.com/msanders/snipmate.vim.git
+
 vim-colorschemes - many vim colorschemes
 *   https://github.com/flazz/vim-colorschemes.git
 
