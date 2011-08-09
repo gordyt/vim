@@ -34,7 +34,7 @@ tabular (submodule)
 *   http://www.vim.org/scripts/script.php?script_id=3464
 *   https://github.com/godlygeek/tabular.git
 
-utl.vim
+utl.vim (submodule)
 *   http://www.vim.org/scripts/script.php?script_id=293
 *   https://github.com/vim-scripts/utl.vim.git
 
