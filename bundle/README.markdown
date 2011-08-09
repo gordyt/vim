@@ -53,7 +53,7 @@ vim-preview (submodule)
 *   http://www.vim.org/scripts/script.php?script_id=3344
 *   https://github.com/greyblake/vim-preview.git
 
-vim-repeat
+vim-repeat (submodule)
 *   http://www.vim.org/scripts/script.php?script_id=2136
 *   https://github.com/tpope/vim-repeat.git
 

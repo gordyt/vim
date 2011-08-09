@@ -40,3 +40,6 @@
 [submodule "bundle/vim-preview"]
 	path = bundle/vim-preview
 	url = https://github.com/greyblake/vim-preview.git
+[submodule "bundle/vim-repeat"]
+	path = bundle/vim-repeat
+	url = https://github.com/tpope/vim-repeat.git
