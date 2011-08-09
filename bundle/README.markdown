@@ -2,15 +2,15 @@ See http://vim-scripts.org/vim/scripts.html for a list that connects the
 http://www.vim.org/scripts script number to the matching github repo!
 
 
-bufexplorer - fast buffer switching
+bufexplorer (submodule)
 *   http://www.vim.org/scripts/script.php?script_id=42
 *   https://github.com/markabe/bufexplorer.git
 
-coverage
+coverage (built-in)
 *   I think this is a simple bundle I put together from this URL:
     http://mg.pov.lt/vim/plugin/py-coverage-highlight.vim
 
-javascript.vim
+javascript.vim (submodule)
 *   http://www.vim.org/scripts/script.php?script_id=1491
 *   https://github.com/serverhorror/javascript.vim.git
 
@@ -38,7 +38,7 @@ utl.vim
 *   http://www.vim.org/scripts/script.php?script_id=293
 *   https://github.com/vim-scripts/utl.vim.git
 
-vim-colorschemes - many vim colorschemes
+vim-colorschemes (submodule)
 *   https://github.com/flazz/vim-colorschemes.git
 
 vim-indent-guides
@@ -65,7 +65,7 @@ vim-unimpaired
 *   http://www.vim.org/scripts/script.php?script_id=1590
 *   https://github.com/tpope/vim-unimpaired.git
 
-vis
+vis (submodule)
 *   http://www.vim.org/scripts/script.php?script_id=1195
 *   https://github.com/vim-scripts/vis.git
 
