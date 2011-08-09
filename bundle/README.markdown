@@ -30,7 +30,7 @@ snipmate.vim (submodule)
 *   http://www.vim.org/scripts/script.php?script_id=2540
 *   https://github.com/msanders/snipmate.vim.git
 
-tabular
+tabular (submodule)
 *   http://www.vim.org/scripts/script.php?script_id=3464
 *   https://github.com/godlygeek/tabular.git
 
