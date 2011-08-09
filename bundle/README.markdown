@@ -48,3 +48,8 @@ vim-surround
 *   http://www.vim.org/scripts/script.php?script_id=1697
 *   https://github.com/tpope/vim-surround.git
 
+vim-unimpaired
+*   http://www.vim.org/scripts/script.php?script_id=1590
+*   https://github.com/tpope/vim-unimpaired.git
+
+
