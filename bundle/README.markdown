@@ -10,5 +10,9 @@ javascript.vim
 *   http://www.vim.org/scripts/script.php?script_id=1491
 *   https://github.com/serverhorror/javascript.vim.git
 
+moin.vim
+*   http://www.vim.org/scripts/script.php?script_id=1459
+*   https://github.com/vim-scripts/moin.vim.git
+
 vim-colorschemes - many vim colorschemes
 *   https://github.com/flazz/vim-colorschemes.git
