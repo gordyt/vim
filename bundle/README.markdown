@@ -40,6 +40,10 @@ utl.vim
 vim-colorschemes - many vim colorschemes
 *   https://github.com/flazz/vim-colorschemes.git
 
+vim-indent-guides
+*   http://www.vim.org/scripts/script.php?script_id=3361
+*   https://github.com/nathanaelkane/vim-indent-guides.git
+
 vim-pep8
 *   http://www.vim.org/scripts/script.php?script_id=3430
 *   https://github.com/jbking/vim-pep8.git
