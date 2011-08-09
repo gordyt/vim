@@ -49,7 +49,7 @@ vim-pep8 (submodule)
 *   http://www.vim.org/scripts/script.php?script_id=3430
 *   https://github.com/jbking/vim-pep8.git
 
-vim-preview
+vim-preview (submodule)
 *   http://www.vim.org/scripts/script.php?script_id=3344
 *   https://github.com/greyblake/vim-preview.git
 
