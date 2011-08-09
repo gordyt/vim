@@ -33,6 +33,10 @@ tabular
 *   http://www.vim.org/scripts/script.php?script_id=3464
 *   https://github.com/godlygeek/tabular.git
 
+utl.vim
+*   http://www.vim.org/scripts/script.php?script_id=293
+*   https://github.com/vim-scripts/utl.vim.git
+
 vim-colorschemes - many vim colorschemes
 *   https://github.com/flazz/vim-colorschemes.git
 
