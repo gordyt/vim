@@ -29,6 +29,10 @@ snipmate.vim
 *   http://www.vim.org/scripts/script.php?script_id=2540
 *   https://github.com/msanders/snipmate.vim.git
 
+tabular
+*   http://www.vim.org/scripts/script.php?script_id=3464
+*   https://github.com/godlygeek/tabular.git
+
 vim-colorschemes - many vim colorschemes
 *   https://github.com/flazz/vim-colorschemes.git
 
@@ -43,5 +47,4 @@ vim-repeat
 vim-surround
 *   http://www.vim.org/scripts/script.php?script_id=1697
 *   https://github.com/tpope/vim-surround.git
-
 
