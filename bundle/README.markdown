@@ -1,4 +1,5 @@
-See https://github.com/vim-scripts/ for main vim github mirror.
+See http://vim-scripts.org/vim/scripts.html for a list that connects the 
+http://www.vim.org/scripts script number to the matching github repo!
 
 
 bufexplorer - fast buffer switching
@@ -63,4 +64,9 @@ vim-surround
 vim-unimpaired
 *   http://www.vim.org/scripts/script.php?script_id=1590
 *   https://github.com/tpope/vim-unimpaired.git
+
+vis
+*   http://www.vim.org/scripts/script.php?script_id=1195
+*   https://github.com/vim-scripts/vis.git
+
 
