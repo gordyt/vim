@@ -48,6 +48,10 @@ vim-pep8
 *   http://www.vim.org/scripts/script.php?script_id=3430
 *   https://github.com/jbking/vim-pep8.git
 
+vim-preview
+*   http://www.vim.org/scripts/script.php?script_id=3344
+*   https://github.com/greyblake/vim-preview.git
+
 vim-repeat
 *   http://www.vim.org/scripts/script.php?script_id=2136
 *   https://github.com/tpope/vim-repeat.git
@@ -59,5 +63,4 @@ vim-surround
 vim-unimpaired
 *   http://www.vim.org/scripts/script.php?script_id=1590
 *   https://github.com/tpope/vim-unimpaired.git
-
 
