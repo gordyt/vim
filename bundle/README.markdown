@@ -1,3 +1,6 @@
+See https://github.com/vim-scripts/ for main vim github mirror.
+
+
 bufexplorer - fast buffer switching
 *   http://www.vim.org/scripts/script.php?script_id=42
 *   https://github.com/markabe/bufexplorer.git
@@ -10,9 +13,22 @@ javascript.vim
 *   http://www.vim.org/scripts/script.php?script_id=1491
 *   https://github.com/serverhorror/javascript.vim.git
 
+pyflakes-vim
+*   http://www.vim.org/scripts/script.php?script_id=2441
+*   https://github.com/kevinw/pyflakes-vim.git
+
 moin.vim
 *   http://www.vim.org/scripts/script.php?script_id=1459
 *   https://github.com/vim-scripts/moin.vim.git
 
 vim-colorschemes - many vim colorschemes
 *   https://github.com/flazz/vim-colorschemes.git
+
+vim-pep8
+*   http://www.vim.org/scripts/script.php?script_id=3430
+*   https://github.com/jbking/vim-pep8.git
+
+vim-repeat
+*   http://www.vim.org/scripts/script.php?script_id=2136
+*   https://github.com/tpope/vim-repeat.git
+
