@@ -18,11 +18,11 @@ pyflakes-vim (submodule)
 *   http://www.vim.org/scripts/script.php?script_id=2441
 *   https://github.com/kevinw/pyflakes-vim.git
 
-moin.vim
+moin.vim (submodule)
 *   http://www.vim.org/scripts/script.php?script_id=1459
 *   https://github.com/vim-scripts/moin.vim.git
 
-scratch.vim
+scratch.vim (submodule)
 *   http://www.vim.org/scripts/script.php?script_id=664
 *   https://github.com/vim-scripts/scratch.vim.git
 
