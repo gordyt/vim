@@ -26,7 +26,7 @@ scratch.vim (submodule)
 *   http://www.vim.org/scripts/script.php?script_id=664
 *   https://github.com/vim-scripts/scratch.vim.git
 
-snipmate.vim
+snipmate.vim (submodule)
 *   http://www.vim.org/scripts/script.php?script_id=2540
 *   https://github.com/msanders/snipmate.vim.git
 
