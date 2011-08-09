@@ -14,7 +14,7 @@ javascript.vim (submodule)
 *   http://www.vim.org/scripts/script.php?script_id=1491
 *   https://github.com/serverhorror/javascript.vim.git
 
-pyflakes-vim
+pyflakes-vim (submodule)
 *   http://www.vim.org/scripts/script.php?script_id=2441
 *   https://github.com/kevinw/pyflakes-vim.git
 
