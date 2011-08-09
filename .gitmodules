@@ -19,3 +19,6 @@
 [submodule "bundle/moin-vim"]
 	path = bundle/moin-vim
 	url = https://github.com/vim-scripts/moin.vim.git
+[submodule "bundle/scratch.vim"]
+	path = bundle/scratch.vim
+	url = https://github.com/vim-scripts/scratch.vim.git
