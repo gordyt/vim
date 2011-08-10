@@ -25,8 +25,8 @@ vmap <M-Down> ]egv
 "
 "   let all copy and paste operations use X11 selection buffer
 set clipboard+=unnamed
-"   COLOR SCHEME - set default colorscheme
-colorscheme google
+"   COLOR SCHEME - set default colorscheme - 2011-03-18 commented out for now
+"   colorscheme google
 "
 "   ------------------------------------------------------------------------
 "   COMMENTS
