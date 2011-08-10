@@ -41,31 +41,6 @@ set commentstring=\ #\ %s
 set expandtab
 "   
 "   ------------------------------------------------------------------------
-"   DIFF subversion
-"   
-"   You can change the revision against which the local file is diffed
-"   by changing the VCAT variable.. the default "BASE" is what subversion
-"   understands to mean the last thing you check out.. so the result
-"   is that only local changes will be shown by default. A handy trick
-"   is that you can temporarily change the value of VCAT at runtime by
-"   typing the following in while in command mode:
-"   
-"   :let VCAT="15900"
-"   
-"   ------------------------------------------------------------------------
-"   
-let VCAT = "BASE"
-function VDiff()
-  let l:cur_buf_name = bufname('%')
-  diffthis
-  vnew
-  exe "0r !svn cat -r ".g:VCAT.' '.l:cur_buf_name
-  diffthis
-  set buftype=nofile    
-endfunc
-map <Leader>ds :sp<cr>:resize<cr>:call VDiff()<cr>
-"   
-"   ------------------------------------------------------------------------
 "   FOLDING
 "   
 "   Once you set a foldmethod the following will let the space
