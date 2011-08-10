@@ -15,3 +15,9 @@ Switch to the `~/.vim` directory, and fetch submodules:
     cd ~/.vim
     git submodule update --init
 
+
+Then switch to the '~/.vim/bundle/pyflake-vim' directory and fetch
+the pyflake submodule:
+
+    cd ~/.vim/bundle/pyflake-vim
+    git submodule update --init

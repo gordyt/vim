@@ -1,0 +1,17 @@
+Use this directory to hold tag files that are not project specific.
+
+-------------------------------------------------------------------------------
+Python
+-------------------------------------------------------------------------------
+
+Generate the tags file:
+
+mkdir -p ~/.vim/tags
+ctags -R --exclude='*.js' -f ~/.vim/tags/python.ctags \
+   /System/Library/Frameworks/Python.framework/Versions/2.6/lib \
+   /Library/Python/2.6
+
+Then in Vim:
+
+set tags+=$HOME/.vim/tags/python.ctags
+
