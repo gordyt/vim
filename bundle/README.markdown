@@ -45,9 +45,6 @@ vim-indent-guides (submodule)
 *   http://www.vim.org/scripts/script.php?script_id=3361
 *   https://github.com/nathanaelkane/vim-indent-guides.git
 
-vim-pep8 (submodule)
-*   http://www.vim.org/scripts/script.php?script_id=3430
-*   https://github.com/jbking/vim-pep8.git
 
 vim-preview (submodule)
 *   http://www.vim.org/scripts/script.php?script_id=3344
