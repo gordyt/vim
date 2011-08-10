@@ -21,3 +21,7 @@ the pyflake submodule:
 
     cd ~/.vim/bundle/pyflake-vim
     git submodule update --init
+
+NOTE: If you want to use the pep8 submodule then you need to install pep8:
+
+    sudo easy_intall pep8
