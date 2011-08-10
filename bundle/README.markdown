@@ -20,6 +20,10 @@ javascript.vim (submodule)
 *   http://www.vim.org/scripts/script.php?script_id=1491
 *   https://github.com/serverhorror/javascript.vim.git
 
+pep8 (submodule)
+*   http://www.vim.org/scripts/script.php?script_id=3160
+*   https://github.com/vim-scripts/pep8--Driessen.git
+
 pyflakes-vim (submodule)
 *   http://www.vim.org/scripts/script.php?script_id=2441
 *   https://github.com/kevinw/pyflakes-vim.git
@@ -50,7 +54,6 @@ vim-colorschemes (submodule)
 vim-indent-guides (submodule)
 *   http://www.vim.org/scripts/script.php?script_id=3361
 *   https://github.com/nathanaelkane/vim-indent-guides.git
-
 
 vim-preview (submodule)
 *   http://www.vim.org/scripts/script.php?script_id=3344
