@@ -1,6 +1,12 @@
 See http://vim-scripts.org/vim/scripts.html for a list that connects the 
 http://www.vim.org/scripts script number to the matching github repo!
 
+To remove a submodule you need to:
+
+1. Delete the relevant line from the .gitmodules file.
+1. Delete the relevant section from .git/config.
+1. Run git rm --cached path_to_submodule (no trailing slash).
+1. Commit and delete the now untracked submodule files.
 
 bufexplorer (submodule)
 *   http://www.vim.org/scripts/script.php?script_id=42
