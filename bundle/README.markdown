@@ -1,6 +1,11 @@
 See [this page](http://vim-scripts.org/vim/scripts.html) for a list that connects the 
 [vim.org/scrips](http://www.vim.org/scripts) script number to the matching github repo!
 
+To add a submodule you need to (from the .vim directory):
+
+1. git submodule add GIT_URL bundle/MODULE_NAME
+1. commit and push changes
+
 To remove a submodule you need to:
 
 1. Delete the relevant line from the .gitmodules file.
