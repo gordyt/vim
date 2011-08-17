@@ -57,6 +57,10 @@ utl.vim (submodule)
 *   [vim.org](http://www.vim.org/scripts/script.php?script_id=293)
 *   [github](https://github.com/vim-scripts/utl.vim.git)
 
+vim-coffee-script
+*   [vim.org](http://www.vim.org/scripts/script.php?script_id=3590)
+*   [github](https://github.com/kchmck/vim-coffee-script.git)
+
 vim-colorschemes (submodule)
 
 *   [github](https://github.com/flazz/vim-colorschemes.git)
