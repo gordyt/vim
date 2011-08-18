@@ -52,3 +52,6 @@
 [submodule "bundle/vim-coffee-script"]
 	path = bundle/vim-coffee-script
 	url = https://github.com/kchmck/vim-coffee-script.git
+[submodule "bundle/vim-latex"]
+	path = bundle/vim-latex
+	url = https://github.com/vim-scripts/LaTeX-Suite-aka-Vim-LaTeX.git
