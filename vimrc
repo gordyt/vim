@@ -210,7 +210,7 @@ set ruler
 "   Make a more informative status line
 "   name, format, filetype, ascii and hex value of character under cursor,
 "       position in document as row and column number and percent, linecount
-set statusline=[FMT=%{&ff}]\ [TYP=%Y]\ [ASC=\%03.3b]\ [HEX=\%02\.2B]\ [POS=%04l,%04v]\ [%p%%]\ [LEN=%L]\ [%f]
+set statusline=[FMT=%{&ff}]\ [TYP=%Y]\ [ASC=\%03.3b]\ [HEX=\%02\.2B]\ [POS=%04l,%04v]\ [%p%%]\ [LEN=%L]\ [%<%f]
 set laststatus=2
 "   ------------------------------------------------------------------------
 "
