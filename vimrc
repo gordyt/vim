@@ -36,6 +36,8 @@ noremap <leader>cm :CoffeeCompile<CR>
 noremap <leader>cm :CoffeeMake<CR>
 "   CoffeeRun
 noremap <leader>cr :CoffeeRun<CR>
+"   Automatically build the coffee source file when you save
+autocmd BufWritePost *.coffee silent CoffeeMake!
 "
 "   ------------------------------------------------------------------------
 "
