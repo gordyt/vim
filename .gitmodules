@@ -61,3 +61,6 @@
 [submodule "bundle/Tagbar"]
 	path = bundle/Tagbar
 	url = https://github.com/vim-scripts/Tagbar.git
+[submodule "bundle/speeddating.vim"]
+	path = bundle/speeddating.vim
+	url = https://github.com/vim-scripts/speeddating.vim.git

@@ -47,6 +47,11 @@ snipmate.vim (submodule)
 *   [vim.org](http://www.vim.org/scripts/script.php?script_id=2540)
 *   [github](https://github.com/msanders/snipmate.vim.git)
 
+speeddating.vim (submodule)
+
+*   [vim.org](http://www.vim.org/scripts/script.php?script_id=2120)
+*   [github](https://github.com/vim-scripts/speeddating.vim.git)
+
 tabular (submodule)
 
 *   [vim.org](http://www.vim.org/scripts/script.php?script_id=3464)
