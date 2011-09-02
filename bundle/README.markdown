@@ -94,8 +94,14 @@ vim-indent-guides (submodule)
 *   [github](https://github.com/nathanaelkane/vim-indent-guides.git)
 
 vim-latex (submodule)
+
 *   [vim.org](http://www.vim.org/scripts/script.php?script_id=475)
 *   [github](https://github.com/vim-scripts/LaTeX-Suite-aka-Vim-LaTeX.git)
+
+vim-orgmode (submode)
+
+*   [vim.org](http://www.vim.org/scripts/script.php?script_id=3642)
+*   [github](https://github.com/vim-scripts/vim-orgmode.git)
 
 vim-preview (submodule)
 
