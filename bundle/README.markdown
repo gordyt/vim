@@ -52,6 +52,11 @@ tabular (submodule)
 *   [vim.org](http://www.vim.org/scripts/script.php?script_id=3464)
 *   [github](https://github.com/godlygeek/tabular.git)
 
+taglist (submodule)
+
+*   [vim.ort](http://www.vim.org/scripts/script.php?script_id=273)
+*   [github](https://github.com/vim-scripts/taglist.vim.git)
+
 utl.vim (submodule)
 
 *   [vim.org](http://www.vim.org/scripts/script.php?script_id=293)
