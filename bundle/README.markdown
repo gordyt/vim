@@ -70,10 +70,6 @@ vim-indent-guides (submodule)
 *   [vim.org](http://www.vim.org/scripts/script.php?script_id=3361)
 *   [github](https://github.com/nathanaelkane/vim-indent-guides.git)
 
-vim-irc (submodule)
-*   [vim.org](http://www.vim.org/scripts/script.php?script_id=931)
-*   [github](https://github.com/vim-scripts/VimIRC.vim.git)
-
 vim-latex (submodule)
 *   [vim.org](http://www.vim.org/scripts/script.php?script_id=475)
 *   [github](https://github.com/vim-scripts/LaTeX-Suite-aka-Vim-LaTeX.git)
