@@ -23,6 +23,14 @@ javascript.vim (submodule)
 *   [vim.org](http://www.vim.org/scripts/script.php?script_id=1491)
 *   [github](https://github.com/serverhorror/javascript.vim.git)
 
+NrrwRgn (submodule)
+
+This is a script emulates Emacs Narrowing feature, by opening a 
+selected range in a new scratch buffer.
+
+*   [vim.org](http://www.vim.org/scripts/script.php?script_id=3075)
+*   [github](https://github.com/vim-scripts/NrrwRgn.git)
+
 pep8 (submodule)
 *   http://www.vim.org/scripts/script.php?script_id=3160
 *   https://github.com/vim-scripts/pep8--Driessen.git
