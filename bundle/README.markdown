@@ -100,6 +100,11 @@ vim-colorschemes (submodule)
 
 *   [github](https://github.com/flazz/vim-colorschemes.git)
 
+vim-colors-solarized (submodule)
+
+*   [vim.org](http://www.vim.org/scripts/script.php?script_id=3520)
+*   [github](https://github.com/altercation/vim-colors-solarized.git)
+
 vim-indent-guides (submodule)
 
 *   [vim.org](http://www.vim.org/scripts/script.php?script_id=3361)
