@@ -102,6 +102,7 @@ vim-colorschemes (submodule)
 
 vim-colors-solarized (submodule)
 
+*   [homepage](http://ethanschoonover.com/solarized)
 *   [vim.org](http://www.vim.org/scripts/script.php?script_id=3520)
 *   [github](https://github.com/altercation/vim-colors-solarized.git)
 

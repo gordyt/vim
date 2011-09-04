@@ -19,4 +19,8 @@ set guifont=Consolas\ 12,Consolas:h13.00,DejaVu\ Sans\ Mono\ 11,DejaVu\ Sans\ Mo
 "   LIGHT SCHEMES:
 "   dual (good in gvim/mvim)
 "   google (good in terminal)
-colorscheme desert
+"   colorscheme desert
+"   DUAL SCHEMES:
+"   solarized (swith via set background=light|dark)
+set background=dark
+colorscheme solarized

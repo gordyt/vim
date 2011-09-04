@@ -41,8 +41,12 @@ autocmd BufWritePost *.coffee silent CoffeeMake!
 "
 "   ------------------------------------------------------------------------
 "
-"   COLOR SCHEME - set default colorscheme - 2011-03-18 commented out for now
-"   colorscheme google
+"   COLOR SCHEME - set default colorscheme
+    if !has('gui_running')
+        let g:solarized_termcolors=256
+        colorscheme solarized
+        set background=dark
+    endif
 "
 "   ------------------------------------------------------------------------
 "   COMMENTS
