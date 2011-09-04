@@ -23,6 +23,18 @@ javascript.vim (submodule)
 *   [vim.org](http://www.vim.org/scripts/script.php?script_id=1491)
 *   [github](https://github.com/serverhorror/javascript.vim.git)
 
+javaScriptLint.vim (submodule)
+
+javascriptLint.vim allows the JavaScript Lint (jsl) program from
+http://www.javascriptlint.com to be tightly integrated with Vim.  The contents
+of a javascript file will be passed through the jsl program after the file's
+buffer is saved.  Any lint warnings will be placed in the quickfix error
+window.
+
+*   [vim.org](http://www.vim.org/scripts/script.php?script_id=2578)
+*   [github](https://github.com/joestelmach/javaScriptLint.vim.git)
+
+
 NrrwRgn (submodule)
 
 This is a script emulates Emacs Narrowing feature, by opening a 
