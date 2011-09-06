@@ -31,7 +31,7 @@ set clipboard+=unnamed
 "   COFFEESCRIPT
 "
 "   CoffeeCompile
-noremap <leader>cm :CoffeeCompile<CR>
+noremap <leader>cc :CoffeeCompile<CR>
 "   CoffeeMake
 noremap <leader>cm :CoffeeMake<CR>
 "   CoffeeRun
