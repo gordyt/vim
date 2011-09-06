@@ -23,6 +23,11 @@ coverage (built-in)
 *   I think this is a simple bundle I put together from 
     [this URL](http://mg.pov.lt/vim/plugin/py-coverage-highlight.vim)
 
+gitdiff.vim (submodule)
+
+*   [vim.org](http://www.vim.org/scripts/script.php?script_id=1846)
+*   [github](https://github.com/vim-scripts/gitdiff.vim.git)
+
 javascript.vim (submodule)
 
 *   [vim.org](http://www.vim.org/scripts/script.php?script_id=1491)
