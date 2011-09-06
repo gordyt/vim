@@ -55,3 +55,24 @@
 [submodule "bundle/vim-latex"]
 	path = bundle/vim-latex
 	url = https://github.com/vim-scripts/LaTeX-Suite-aka-Vim-LaTeX.git
+[submodule "bundle/taglist.vim"]
+	path = bundle/taglist.vim
+	url = https://github.com/vim-scripts/taglist.vim.git
+[submodule "bundle/Tagbar"]
+	path = bundle/Tagbar
+	url = https://github.com/vim-scripts/Tagbar.git
+[submodule "bundle/speeddating.vim"]
+	path = bundle/speeddating.vim
+	url = https://github.com/vim-scripts/speeddating.vim.git
+[submodule "bundle/NrrwRgn"]
+	path = bundle/NrrwRgn
+	url = https://github.com/vim-scripts/NrrwRgn.git
+[submodule "bundle/vim-orgmode"]
+	path = bundle/vim-orgmode
+	url = https://github.com/vim-scripts/vim-orgmode.git
+[submodule "bundle/javaScriptLint.vim"]
+	path = bundle/javaScriptLint.vim
+	url = https://github.com/joestelmach/javaScriptLint.vim.git
+[submodule "bundle/vim-colors-solarized"]
+	path = bundle/vim-colors-solarized
+	url = https://github.com/altercation/vim-colors-solarized.git

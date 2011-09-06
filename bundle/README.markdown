@@ -28,6 +28,26 @@ javascript.vim (submodule)
 *   [vim.org](http://www.vim.org/scripts/script.php?script_id=1491)
 *   [github](https://github.com/serverhorror/javascript.vim.git)
 
+javaScriptLint.vim (submodule)
+
+javascriptLint.vim allows the JavaScript Lint (jsl) program from
+http://www.javascriptlint.com to be tightly integrated with Vim.  The contents
+of a javascript file will be passed through the jsl program after the file's
+buffer is saved.  Any lint warnings will be placed in the quickfix error
+window.
+
+*   [vim.org](http://www.vim.org/scripts/script.php?script_id=2578)
+*   [github](https://github.com/joestelmach/javaScriptLint.vim.git)
+
+
+NrrwRgn (submodule)
+
+This is a script emulates Emacs Narrowing feature, by opening a 
+selected range in a new scratch buffer.
+
+*   [vim.org](http://www.vim.org/scripts/script.php?script_id=3075)
+*   [github](https://github.com/vim-scripts/NrrwRgn.git)
+
 pep8 (submodule)
 *   http://www.vim.org/scripts/script.php?script_id=3160
 *   https://github.com/vim-scripts/pep8--Driessen.git
@@ -52,10 +72,25 @@ snipmate.vim (submodule)
 *   [vim.org](http://www.vim.org/scripts/script.php?script_id=2540)
 *   [github](https://github.com/msanders/snipmate.vim.git)
 
+speeddating.vim (submodule)
+
+*   [vim.org](http://www.vim.org/scripts/script.php?script_id=2120)
+*   [github](https://github.com/vim-scripts/speeddating.vim.git)
+
 tabular (submodule)
 
 *   [vim.org](http://www.vim.org/scripts/script.php?script_id=3464)
 *   [github](https://github.com/godlygeek/tabular.git)
+
+Tagbar (submodule)
+
+*   [vim.org](http://www.vim.org/scripts/script.php?script_id=3465)
+*   [github](https://github.com/vim-scripts/Tagbar.git)
+
+taglist (submodule)
+
+*   [vim.ort](http://www.vim.org/scripts/script.php?script_id=273)
+*   [github](https://github.com/vim-scripts/taglist.vim.git)
 
 utl.vim (submodule)
 
@@ -70,14 +105,26 @@ vim-colorschemes (submodule)
 
 *   [github](https://github.com/flazz/vim-colorschemes.git)
 
+vim-colors-solarized (submodule)
+
+*   [homepage](http://ethanschoonover.com/solarized)
+*   [vim.org](http://www.vim.org/scripts/script.php?script_id=3520)
+*   [github](https://github.com/altercation/vim-colors-solarized.git)
+
 vim-indent-guides (submodule)
 
 *   [vim.org](http://www.vim.org/scripts/script.php?script_id=3361)
 *   [github](https://github.com/nathanaelkane/vim-indent-guides.git)
 
 vim-latex (submodule)
+
 *   [vim.org](http://www.vim.org/scripts/script.php?script_id=475)
 *   [github](https://github.com/vim-scripts/LaTeX-Suite-aka-Vim-LaTeX.git)
+
+vim-orgmode (submode)
+
+*   [vim.org](http://www.vim.org/scripts/script.php?script_id=3642)
+*   [github](https://github.com/vim-scripts/vim-orgmode.git)
 
 vim-preview (submodule)
 

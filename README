@@ -22,6 +22,12 @@ the pyflake submodule:
     cd ~/.vim/bundle/pyflake-vim
     git submodule update --init
 
-NOTE: If you want to use the pep8 submodule then you need to install pep8:
+NOTES: 
 
-    sudo easy_intall pep8
+If you want to use the pep8 submodule then you need to install pep8:
+
+sudo easy_intall pep8
+
+If you want to use the javasScriptLint.vim submodule then you need to intall jsl:
+
+via homebrew: brew install jsl
