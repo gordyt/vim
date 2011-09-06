@@ -29,12 +29,15 @@ NOTES:
 
     * The [JavaScript Lint Homepage](http://www.javascriptlint.com)
     * Install via homebrew: `brew install jsl`
-    * Install from source:
+    * Install from source (you want version 0.3.0), Ubuntu:
 
-        svn co https://javascriptlint.svn.sourceforge.net/svnroot/javascriptlint/trunk jsl
-        cd jsl
-        python setup.py build
-        python setup.py install
+        wget http://javascriptlint.com/download/jsl-0.3.0-src.tar.gz
+        tar xfz jsl-0.3.0-src.tar.gz
+        rm !$
+        cd jsl-0.3.0/src
+        make -f Makefile.ref
+        cd Linux_All_DBG.OBJ
+        ln -s `pwd`/jsl /usr/local/bin/jsl
 
 1. The pep8 submodule depends upon pep8.  To install:
 
