@@ -79,3 +79,6 @@
 [submodule "bundle/gitdiff.vim"]
 	path = bundle/gitdiff.vim
 	url = https://github.com/vim-scripts/gitdiff.vim.git
+[submodule "bundle/vim-stylus"]
+	path = bundle/vim-stylus
+	url = https://github.com/wavded/vim-stylus.git

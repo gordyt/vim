@@ -141,6 +141,11 @@ vim-repeat (submodule)
 *   [vim.org](http://www.vim.org/scripts/script.php?script_id=2136)
 *   [github](https://github.com/tpope/vim-repeat.git)
 
+vim-stylus (submodule)
+
+*   [vim.org](http://www.vim.org/scripts/script.php?script_id=3513)
+*   [github](https://github.com/wavded/vim-stylus.git)
+
 vim-surround (submodule)
 
 *   [vim.org](http://www.vim.org/scripts/script.php?script_id=1697)
