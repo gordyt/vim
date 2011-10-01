@@ -126,10 +126,15 @@ vim-latex (submodule)
 *   [vim.org](http://www.vim.org/scripts/script.php?script_id=475)
 *   [github](https://github.com/vim-scripts/LaTeX-Suite-aka-Vim-LaTeX.git)
 
-vim-orgmode (submode)
+vim-orgmode (submodule)
 
 *   [vim.org](http://www.vim.org/scripts/script.php?script_id=3642)
 *   [github](https://github.com/vim-scripts/vim-orgmode.git)
+
+vimoutliner (submodule)
+
+*   [vim.org](http://www.vim.org/scripts/script.php?script_id=3515)
+*   [github](https://github.com/vimoutliner/vimoutliner.git)
 
 vim-preview (submodule)
 

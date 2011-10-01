@@ -162,9 +162,12 @@ autocmd BufEnter *.md set filetype=markdown
 if has('mac')
     "   This is a little bash wrapper in /usr/local/bin on gordy29
     let g:PreviewBrowsers='browser'
+    "   Preview file with Marked application (mac os x)
+    :nnoremap <leader>m :silent !open -a Marked.app '%:p'<cr>
 else
     let g:PreviewBrowsers='chromium-browser,firefox'
 endif
+"
 "
 "   ------------------------------------------------------------------------
 "   OMNICOMPLETION
