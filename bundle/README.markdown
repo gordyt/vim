@@ -103,6 +103,7 @@ utl.vim (submodule)
 *   [github](https://github.com/vim-scripts/utl.vim.git)
 
 vim-coffee-script
+
 *   [vim.org](http://www.vim.org/scripts/script.php?script_id=3590)
 *   [github](https://github.com/kchmck/vim-coffee-script.git)
 
@@ -115,6 +116,12 @@ vim-colors-solarized (submodule)
 *   [homepage](http://ethanschoonover.com/solarized)
 *   [vim.org](http://www.vim.org/scripts/script.php?script_id=3520)
 *   [github](https://github.com/altercation/vim-colors-solarized.git)
+
+vimerl (submodule)
+
+Erlang plugin for vim
+
+*   [github](https://github.com/jimenezrick/vimerl.git)
 
 vim-indent-guides (submodule)
 
