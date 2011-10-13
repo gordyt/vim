@@ -13,9 +13,6 @@
 [submodule "bundle/vis"]
 	path = bundle/vis
 	url = https://github.com/vim-scripts/vis.git
-[submodule "bundle/pyflakes-vim"]
-	path = bundle/pyflakes-vim
-	url = https://github.com/kevinw/pyflakes-vim.git
 [submodule "bundle/moin-vim"]
 	path = bundle/moin-vim
 	url = https://github.com/vim-scripts/moin.vim.git
