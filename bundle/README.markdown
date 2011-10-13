@@ -66,7 +66,7 @@ I switched to using the Read-Only URL for the pyflakes submodule.
 
 *   [vim.org](http://www.vim.org/scripts/script.php?script_id=2441)
 *   [github - kevinw](git://github.com/kevinw/pyflakes-vim.git)
-*   [github - gordyt](git://github.com/kevinw/pyflakes-vim.git)
+*   [github - gordyt](git://github.com/gordyt/pyflakes-vim.git)
 
 moin.vim (submodule)
 
