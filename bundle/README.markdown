@@ -73,6 +73,11 @@ moin.vim (submodule)
 *   [vim.org](http://www.vim.org/scripts/script.php?script_id=1459)
 *   [github](https://github.com/vim-scripts/moin.vim.git)
 
+nerdtree (submodule)
+
+*   [vim.org](http://www.vim.org/scripts/script.php?script_id=1658)
+*   [github](https://github.com/scrooloose/nerdtree.git)
+
 scratch.vim (submodule)
 
 *   [vim.org](http://www.vim.org/scripts/script.php?script_id=664)
