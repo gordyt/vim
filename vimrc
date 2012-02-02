@@ -57,6 +57,16 @@ ia #e *************************************************************************
 set commentstring=\ #\ %s
 "   ------------------------------------------------------------------------
 "
+"   ------------------------------------------------------------------------
+"   ERLANG
+"
+"   Overwrite the default location to search for the Erlang man pages
+"
+    if hostname() =~ "gordy29"
+        let erlang_man_path = "/usr/local/Cellar/erlang/HEAD/share/man"
+    endif
+"
+"   ------------------------------------------------------------------------
 "   insert spaces when you hit tab key.  NOTE: to insert a real tab when
 "   expandtab is set, just your CTRL-V<Tab>
 set expandtab
