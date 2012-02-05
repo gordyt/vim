@@ -45,7 +45,7 @@ noremap <leader>cr :CoffeeRun<CR>
 "   COLOR SCHEME - set default colorscheme
     if !has('gui_running')
         let g:solarized_termcolors=256
-        colorscheme solarized
+        colorscheme hemisu
         set background=dark
     endif
 "

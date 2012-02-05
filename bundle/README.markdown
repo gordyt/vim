@@ -30,6 +30,11 @@ gitdiff.vim (submodule)
 
 hemisu colorscheme (submodule)
 
+To switch between light and dark background variants:
+
+    :set background=dark
+    :set background=light
+
 *   [github](https://github.com/noahfrederick/Hemisu.git)
 
 javascript.vim (submodule)
