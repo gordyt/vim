@@ -91,3 +91,6 @@
 [submodule "bundle/nerdtree"]
 	path = bundle/nerdtree
 	url = https://github.com/scrooloose/nerdtree.git
+[submodule "bundle/hemisu"]
+	path = bundle/hemisu
+	url = https://github.com/noahfrederick/Hemisu.git

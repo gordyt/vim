@@ -28,6 +28,10 @@ gitdiff.vim (submodule)
 *   [vim.org](http://www.vim.org/scripts/script.php?script_id=1846)
 *   [github](https://github.com/vim-scripts/gitdiff.vim.git)
 
+hemisu colorscheme (submodule)
+
+*   [github](https://github.com/noahfrederick/Hemisu.git)
+
 javascript.vim (submodule)
 
 *   [vim.org](http://www.vim.org/scripts/script.php?script_id=1491)
