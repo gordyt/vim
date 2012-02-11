@@ -94,3 +94,9 @@
 [submodule "bundle/hemisu"]
 	path = bundle/hemisu
 	url = https://github.com/noahfrederick/Hemisu.git
+[submodule "bundle/gundo"]
+	path = bundle/gundo
+	url = http://github.com/sjl/gundo.vim.git
+[submodule "bundle/fugitive"]
+	path = bundle/fugitive
+	url = https://github.com/tpope/vim-fugitive.git

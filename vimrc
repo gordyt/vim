@@ -106,6 +106,11 @@ set grepprg=grep\ -nH\ $*
 set hidden
 "
 "   ------------------------------------------------------------------------
+"   Gundo - provides a visual representation of your Vim undo graph
+"
+nnoremap <F5> :GundoToggle<CR>
+"
+"   ------------------------------------------------------------------------
 "   HIGHLIGHTING - highlight search terms... (2011-07-28) disable
 "   set hlsearch
 "   ...dynamically as they are typed
