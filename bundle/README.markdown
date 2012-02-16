@@ -18,6 +18,12 @@ bufexplorer (submodule)
 *   [vim.org](http://www.vim.org/scripts/script.php?script_id=42)
 *   [github](https://github.com/markabe/bufexplorer.git)
 
+column-math (built-in)
+
+*   This is an in-progress experiment that I'm working on that 
+    lets you generate a sum over a column of text that you have
+    selected using visual mode.
+
 coverage (built-in)
 
 *   I think this is a simple bundle I put together from 
@@ -93,6 +99,11 @@ moin.vim (submodule)
 
 *   [vim.org](http://www.vim.org/scripts/script.php?script_id=1459)
 *   [github](https://github.com/vim-scripts/moin.vim.git)
+
+nerdcommenter (submodule)
+
+*   [vim.org](http://www.vim.org/scripts/script.php?script_id=1218)
+*   [github](https://github.com/scrooloose/nerdcommenter.git)
 
 nerdtree (submodule)
 

@@ -1,0 +1,6 @@
+*column-math.txt* Simple column math (February 16, 2012)
+
+Author:     G. Tillman
+
+
+Sample help for column-math
