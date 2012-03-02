@@ -45,7 +45,7 @@ noremap <leader>cr :CoffeeRun<CR>
 "   COLOR SCHEME - set default colorscheme
     if !has('gui_running')
         let g:solarized_termcolors=256
-        colorscheme hemisu
+        colorscheme solarized
         set background=dark
     endif
 "
@@ -229,6 +229,8 @@ for p in sys.path:
         vim.command(r'set path+=%s' % (p.replace(' ', r'\ ')))
 
 EOF
+noremap <buffer> <F8> :call Pep8()<CR>
+noremap! <buffer> <F8> :call Pep8()<CR>
 endif
 "   
 "   ------------------------------------------------------------------------
