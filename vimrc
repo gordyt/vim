@@ -184,10 +184,17 @@ else
 endif
 "
 "   ------------------------------------------------------------------------
-"   NERDTree
+"   netrw
+"
+"   NOTE: To simulate what NERDTree does
+"       
+"   Edit current directory
+"   With cursor over file, press v
+"   Resize windows if necessary
+"   To edit a new file in right pane, with cursor over file, press P
 "   ------------------------------------------------------------------------
 "
-let NERDTreeHijackNetrw=0
+let g:netrw_altv = 1
 "
 "   ------------------------------------------------------------------------
 "   OMNICOMPLETION

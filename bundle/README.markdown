@@ -100,11 +100,6 @@ nerdcommenter (submodule)
 *   [vim.org](http://www.vim.org/scripts/script.php?script_id=1218)
 *   [github](https://github.com/scrooloose/nerdcommenter.git)
 
-nerdtree (submodule)
-
-*   [vim.org](http://www.vim.org/scripts/script.php?script_id=1658)
-*   [github](https://github.com/scrooloose/nerdtree.git)
-
 scratch.vim (submodule)
 
 *   [vim.org](http://www.vim.org/scripts/script.php?script_id=664)
