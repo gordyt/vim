@@ -145,6 +145,7 @@ noremap <leader>vsi :'[,']><CR>
 let g:tex_flavor='latex'
 "   wrap long lines at a blank
 set linebreak
+noremap <SID>_disable_IMAP_JumpForward_ <Plug>IMAP_JumpForward
 "
 "   ------------------------------------------------------------------------
 "
@@ -195,6 +196,7 @@ endif
 "   ------------------------------------------------------------------------
 "
 let g:netrw_altv = 1
+let g:netrw_winsize = 80
 "
 "   ------------------------------------------------------------------------
 "   OMNICOMPLETION
@@ -310,8 +312,8 @@ map - <   " skinnier
 "   
 set winminheight=0      " Allow windows to get fully squashed
 " Switch between windows, maximizing the current window
-map <C-J> <C-W>j<C-W>_
-map <C-K> <C-W>k<C-W>_ 
+noremap <C-J> <C-W>j<C-W>_
+noremap <C-K> <C-W>k<C-W>_ 
 "   ------------------------------------------------------------------------
 "
 "   ------------------------------------------------------------------------
