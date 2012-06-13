@@ -46,6 +46,7 @@ noremap <leader>cr :CoffeeRun<CR>
     if !has('gui_running')
         let g:solarized_termcolors=256
         colorscheme solarized
+        "colorscheme desert
         set background=dark
     endif
 "
@@ -111,17 +112,32 @@ set hidden
 nnoremap <F5> :GundoToggle<CR>
 "
 "   ------------------------------------------------------------------------
-"   HIGHLIGHTING - highlight search terms... (2011-07-28) disable
-"   set hlsearch
-"   ...dynamically as they are typed
+"   HIGHLIGHTING - highlight search terms dynamically as they are typed
+let g:highlight_search_enabled = 1
+set hlsearch
 set incsearch
-"   temporarily turn off hlsearch if it gets annoying
-nmap <silent> <leader>n :silent :nohlsearch<CR>
+"   toggle hlsearch on and off
+"   nmap <silent> <leader>n :silent :nohlsearch<CR>
+"
+function! HighlightSearchToggle ()
+    if exists("g:highlight_search_enabled")
+        set nohlsearch
+        unlet g:highlight_search_enabled
+    else
+        let g:highlight_search_enabled = 1
+        set hlsearch
+    endif
+endfunction
+map <Leader>n :call HighlightSearchToggle()<CR>
 "   ------------------------------------------------------------------------
 "
 "   use both ignorecase AND smartcase case in searches
 set ignorecase
 set smartcase
+"
+"   Give Vim a larger history buffer (default = 20)
+"
+set history=10000
 "   
 "   ------------------------------------------------------------------------
 "   Javascript Settings
@@ -238,8 +254,7 @@ for p in sys.path:
         vim.command(r'set path+=%s' % (p.replace(' ', r'\ ')))
 
 EOF
-noremap <buffer> <F8> :call Pep8()<CR>
-noremap! <buffer> <F8> :call Pep8()<CR>
+noremap <leader>p8 :call Pep8()<CR>
 endif
 "   
 "   ------------------------------------------------------------------------
