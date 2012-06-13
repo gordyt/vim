@@ -135,6 +135,11 @@ utl.vim (submodule)
 *   [vim.org](http://www.vim.org/scripts/script.php?script_id=293)
 *   [github](https://github.com/vim-scripts/utl.vim.git)
 
+vimclojure (submodule)
+
+*   [vim.org](http://www.vim.org/scripts/script.php?script_id=2501)
+*   [github](https://github.com/vim-scripts/VimClojure.git)
+
 vim-coffee-script
 
 *   [vim.org](http://www.vim.org/scripts/script.php?script_id=3590)
