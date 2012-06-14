@@ -17,12 +17,6 @@ Switch to the `~/.vim` directory, and fetch submodules:
     git submodule update --init
 
 
-Then switch to the '~/.vim/bundle/pyflake-vim' directory and fetch
-the pyflake submodule:
-
-    cd ~/.vim/bundle/pyflake-vim
-    git submodule update --init
-
 NOTES: 
 
 1. The javaScriptLint.vim submodule depends upon the jsl command.  References:
@@ -39,9 +33,9 @@ NOTES:
         cd Linux_All_DBG.OBJ
         ln -s `pwd`/jsl /usr/local/bin/jsl
 
-1. The pep8 submodule depends upon pep8.  To install:
+1. The vim-flake8 submodule depends upon the flake8 command.  To install it:
 
-    sudo easy_intall pep8
+    sudo easy_intall flake8
 
 1.  The vim-preview submodule depends on various other components to support the desired preview
     formats:
