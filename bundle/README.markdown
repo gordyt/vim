@@ -75,20 +75,6 @@ selected range in a new scratch buffer.
 *   [vim.org](http://www.vim.org/scripts/script.php?script_id=3075)
 *   [github](https://github.com/vim-scripts/NrrwRgn.git)
 
-pep8 (submodule)
-*   http://www.vim.org/scripts/script.php?script_id=3160
-*   https://github.com/vim-scripts/pep8--Driessen.git
-
-pyflakes-vim (submodule)
-
-Switched to using my fork of pyflakes-vim for now because it requires
-another submodule (pyflakes) and the author is using a URL for the
-submodule that requires you to be authenticated with GitHub to access.
-I switched to using the Read-Only URL for the pyflakes submodule.
-
-*   [vim.org](http://www.vim.org/scripts/script.php?script_id=2441)
-*   [github - kevinw](git://github.com/kevinw/pyflakes-vim.git)
-*   [github - gordyt](git://github.com/gordyt/pyflakes-vim.git)
 
 moin.vim (submodule)
 

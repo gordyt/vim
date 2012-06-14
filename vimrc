@@ -271,7 +271,6 @@ for p in sys.path:
         vim.command(r'set path+=%s' % (p.replace(' ', r'\ ')))
 
 EOF
-noremap <leader>p8 :call Pep8()<CR>
 endif
 "   
 "   ------------------------------------------------------------------------
