@@ -165,6 +165,23 @@ noremap <SID>_disable_IMAP_JumpForward_ <Plug>IMAP_JumpForward
 "
 "   ------------------------------------------------------------------------
 "
+"   LINE NUMBERING (RELATIVE) - add ability to toggle relative line
+"   numbering on and off
+"
+"
+function! ToggleRelativeNumbering ()
+    if exists("g:toggle_relative_numbering")
+        unlet g:toggle_relative_numbering
+        set norelativenumber
+    else
+        let g:toggle_relative_numbering = 1
+        set relativenumber
+    endif
+endfunction
+map <Leader>rn :call ToggleRelativeNumbering ()<CR>
+"
+"   ------------------------------------------------------------------------
+"
 "   LONG LINE HIGHLIGHTING - adds ability to turn on and off highting
 "   of lines that are longer that 79 characters in length.  The mapping
 "   will toggle on and off

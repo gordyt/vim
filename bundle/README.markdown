@@ -161,6 +161,13 @@ Erlang plugin for vim
 
 *   [github](https://github.com/jimenezrick/vimerl.git)
 
+vim-flake8
+
+This supercedes both vim-pyflakes and vim-pep8
+
+*   [vim.org](http://www.vim.org/scripts/script.php?script_id=3927)
+*   [github](https://github.com/nvie/vim-flake8.git)
+
 vim-indent-guides (submodule)
 
 *   [vim.org](http://www.vim.org/scripts/script.php?script_id=3361)
