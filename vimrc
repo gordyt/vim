@@ -271,6 +271,19 @@ for p in sys.path:
         vim.command(r'set path+=%s' % (p.replace(' ', r'\ ')))
 
 EOF
+"   
+"   vim-flake8 notes:
+"
+"   1.  <F7> is the default key to invoke it.
+"   2.  You can configure flake8 to ignore certain errors.  Here is an example:
+"
+"       let g:flake8_ignore="E501,W293"
+"
+"   3.  You can confiugre flake8 to be automatically invoked every time you
+"       save a Pyhton buffer as follows:
+"
+"       autocmd BufWritePost *.py call Flake8()
+"
 endif
 "   
 "   ------------------------------------------------------------------------
