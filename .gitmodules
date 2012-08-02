@@ -97,3 +97,9 @@
 [submodule "bundle/vim-flake8"]
 	path = bundle/vim-flake8
 	url = https://github.com/nvie/vim-flake8.git
+[submodule "bundle/lucius"]
+	path = bundle/lucius
+	url = https://github.com/vim-scripts/Lucius.git
+[submodule "bundle/colorsupport"]
+	path = bundle/colorsupport
+	url = https://github.com/vim-scripts/colorsupport.vim.git
