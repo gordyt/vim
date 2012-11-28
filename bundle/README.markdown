@@ -71,9 +71,14 @@ window.
 *   [vim.org](http://www.vim.org/scripts/script.php?script_id=2578)
 *   [github](https://github.com/joestelmach/javaScriptLint.vim)
 
+linediff.vim (submodule)
+
+*   [vim.org](http://www.vim.org/scripts/script.php?script_id=3745)
+*   [github](https://github.com/AndrewRadev/linediff.vim)
+
 lucius color scheme (submodule)
 
-*   [vim.ort](http://www.vim.org/scripts/script.php?script_id=2536)
+*   [vim.org](http://www.vim.org/scripts/script.php?script_id=2536)
 *   [github](https://github.com/vim-scripts/Lucius)
 
 
