@@ -189,6 +189,13 @@ vimoutliner (submodule)
 *   [vim.org](http://www.vim.org/scripts/script.php?script_id=3515)
 *   [github](https://github.com/vimoutliner/vimoutliner)
 
+vim-paren-crosshairs
+
+plays crosshairs on the cursor when moving over parens and other elements of
+'matchpairs'
+
+*   [github](https://github.com/chreekat/vim-paren-crosshairs.git)
+
 vim-preview (submodule)
 
 *   [vim.org](http://www.vim.org/scripts/script.php?script_id=3344)
