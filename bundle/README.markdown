@@ -71,6 +71,12 @@ window.
 *   [vim.org](http://www.vim.org/scripts/script.php?script_id=2578)
 *   [github](https://github.com/joestelmach/javaScriptLint.vim)
 
+jedi-vim
+
+Using the jedi autocompletion library for VIM.
+
+*   [github](https://github.com/davidhalter/jedi-vim.git)
+
 linediff.vim (submodule)
 
 *   [vim.org](http://www.vim.org/scripts/script.php?script_id=3745)

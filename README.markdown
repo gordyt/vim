@@ -14,7 +14,7 @@ Create symlinks:
 Switch to the `~/.vim` directory, and fetch submodules:
 
     cd ~/.vim
-    git submodule update --init
+    git submodule update --init --recursive
 
 
 NOTES: 
