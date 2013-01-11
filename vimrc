@@ -62,6 +62,24 @@ set commentstring=\ #\ %s
 "   ------------------------------------------------------------------------
 "
 "   ------------------------------------------------------------------------
+"   DIFF WHITESPACE TOGGLE
+"   ------------------------------------------------------------------------
+"
+map <leader><leader>w :call ToggleWhitespaceDiff()<cr>
+
+function ToggleWhitespaceDiff()
+    if exists("g:whitespace_diff")
+        unlet g:whitespace_diff
+        set diffopt=filler
+        echo "whitespace matters"
+    else
+        let g:whitespace_diff = 1
+        set diffopt=filler,iwhite
+        echo "ignoring whitespace"
+    endif
+endfunction
+"
+"   ------------------------------------------------------------------------
 "   ERLANG
 "
 "   Overwrite the default location to search for the Erlang man pages
