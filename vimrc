@@ -24,7 +24,7 @@ vmap <M-Down> ]egv
 "   ------------------------------------------------------------------------
 "
 "   let all copy and paste operations use X11 selection buffer
-set clipboard+=unnamed
+"   set clipboard+=unnamed
 "
 "   ------------------------------------------------------------------------
 "
