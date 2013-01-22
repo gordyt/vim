@@ -138,8 +138,6 @@ let g:highlight_search_enabled = 1
 set hlsearch
 set incsearch
 "   toggle hlsearch on and off
-"   nmap <silent> <leader>n :silent :nohlsearch<CR>
-"
 function! HighlightSearchToggle ()
     if exists("g:highlight_search_enabled")
         set nohlsearch
@@ -149,7 +147,7 @@ function! HighlightSearchToggle ()
         set hlsearch
     endif
 endfunction
-map <Leader>n :call HighlightSearchToggle()<CR>
+map <Leader><Leader>h :call HighlightSearchToggle()<CR>
 "   ------------------------------------------------------------------------
 "
 "   use both ignorecase AND smartcase case in searches
