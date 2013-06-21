@@ -64,9 +64,6 @@
 [submodule "bundle/vim-orgmode"]
 	path = bundle/vim-orgmode
 	url = https://github.com/vim-scripts/vim-orgmode.git
-[submodule "bundle/javaScriptLint.vim"]
-	path = bundle/javaScriptLint.vim
-	url = https://github.com/joestelmach/javaScriptLint.vim.git
 [submodule "bundle/vim-colors-solarized"]
 	path = bundle/vim-colors-solarized
 	url = https://github.com/altercation/vim-colors-solarized.git
