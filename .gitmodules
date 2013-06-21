@@ -1,6 +1,3 @@
-[submodule "bundle/javascript.vim"]
-	path = bundle/javascript.vim
-	url = https://github.com/serverhorror/javascript.vim.git
 [submodule "bundle/bufexplorer"]
 	path = bundle/bufexplorer
 	url = https://github.com/markabe/bufexplorer.git

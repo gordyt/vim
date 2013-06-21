@@ -55,11 +55,6 @@ To switch between light and dark background variants:
 
 *   [github](https://github.com/noahfrederick/Hemisu)
 
-javascript.vim (submodule)
-
-*   [vim.org](http://www.vim.org/scripts/script.php?script_id=1491)
-*   [github](https://github.com/serverhorror/javascript.vim)
-
 jedi-vim
 
 Using the jedi autocompletion library for VIM.
