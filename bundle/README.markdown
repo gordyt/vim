@@ -55,11 +55,6 @@ To switch between light and dark background variants:
 
 *   [github](https://github.com/noahfrederick/Hemisu)
 
-jedi-vim
-
-Using the jedi autocompletion library for VIM.
-
-*   [github](https://github.com/davidhalter/jedi-vim.git)
 
 linediff.vim (submodule)
 
