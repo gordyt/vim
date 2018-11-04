@@ -25,13 +25,15 @@ NOTES:
     * Install via homebrew: `brew install jsl`
     * Install from source (you want version 0.3.0), Ubuntu:
 
-        wget http://javascriptlint.com/download/jsl-0.3.0-src.tar.gz
-        tar xfz jsl-0.3.0-src.tar.gz
-        rm !$
-        cd jsl-0.3.0/src
-        make -f Makefile.ref
-        cd Linux_All_DBG.OBJ
-        ln -s `pwd`/jsl /usr/local/bin/jsl
+
+            wget http://javascriptlint.com/download/jsl-0.3.0-src.tar.gz
+            tar xfz jsl-0.3.0-src.tar.gz
+            rm !$
+            cd jsl-0.3.0/src
+            make -f Makefile.ref
+            cd Linux_All_DBG.OBJ
+            ln -s `pwd`/jsl /usr/local/bin/jsl
+
 
 1. The vim-flake8 submodule depends upon the flake8 command.  To install it:
 
